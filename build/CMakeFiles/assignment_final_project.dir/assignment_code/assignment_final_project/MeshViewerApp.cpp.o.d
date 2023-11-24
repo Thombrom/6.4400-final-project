@@ -405,6 +405,27 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
  /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/VertexBuffer.hpp \
  /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindableBuffer.hpp \
  /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindGuard.hpp \
+ /usr/include/c++/11/unordered_set \
+ /usr/include/c++/11/bits/unordered_set.h \
+ /home/tbf/Classes/6.4400/final/assignment_code/common/helpers.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/vec1.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1_precision.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1_precision.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1_precision.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1_sized.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint1.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint1_sized.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.inl \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.hpp \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.inl \
+ /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.inl \
+ /usr/include/c++/11/cstdarg \
  /home/tbf/Classes/6.4400/final/gloo/shaders/PhongShader.hpp \
  /home/tbf/Classes/6.4400/final/gloo/shaders/ShaderProgram.hpp \
  /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/IBindable.hpp \

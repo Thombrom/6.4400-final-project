@@ -6,8 +6,18 @@
 using namespace GLOO;
 
 int main(int argc, const char* argv[]) {
+    if (argc < 3) {
+        std::cout << "Usage: " << argv[0] << ":" << std::endl
+                << "MODEL where MODEL is "
+                    "relative to assets/assignment2"
+                << std::endl
+                << "VERTEX_COUNT int"
+                << std::endl;
+        return -1;
+    }
+
     std::unique_ptr<MeshViewerApp> app = make_unique<MeshViewerApp>(
-        "Assignment Final", glm::ivec2(1440, 900));
+        "Assignment Final", glm::ivec2(1440, 900), std::string(argv[1]), (size_t)std::atoi(argv[2]));
 
     app->SetupScene();
 

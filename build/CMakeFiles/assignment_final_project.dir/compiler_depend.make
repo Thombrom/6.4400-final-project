@@ -3,6 +3,7 @@
 
 CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project/MeshViewerApp.cpp.o: /home/tbf/Classes/6.4400/final/assignment_code/assignment_final_project/MeshViewerApp.cpp \
   /home/tbf/Classes/6.4400/final/assignment_code/assignment_final_project/MeshViewerApp.h \
+  /home/tbf/Classes/6.4400/final/assignment_code/common/helpers.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glad/include/KHR/khrplatform.h \
   /home/tbf/Classes/6.4400/final/external/src/glad/include/glad/glad.h \
   /home/tbf/Classes/6.4400/final/external/src/glfw-3.3.2/include/GLFW/glfw3.h \
@@ -113,24 +114,32 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/scalar_constants.inl \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/scalar_int_sized.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/scalar_uint_sized.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool2.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool2_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool3.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool3_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool4.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool4_precision.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double2.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double2_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double3.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double3_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double4.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double4_precision.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float2.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float2_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float3.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float3_precision.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float4.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float4_precision.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1_sized.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int2.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int2_sized.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int3.hpp \
@@ -139,6 +148,8 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int4_sized.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_relational.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_relational.inl \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint1.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint1_sized.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint2.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint2_sized.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint3.hpp \
@@ -156,6 +167,13 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/matrix_transform.inl \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/quaternion.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/quaternion.inl \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.inl \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/vec1.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.inl \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.hpp \
+  /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.inl \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/integer.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/mat2x2.hpp \
   /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/mat2x3.hpp \
@@ -179,24 +197,36 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /home/tbf/Classes/6.4400/final/external/src/imgui/imconfig.h \
   /home/tbf/Classes/6.4400/final/external/src/imgui/imgui.h \
   /home/tbf/Classes/6.4400/final/gloo/Application.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/Material.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/MeshData.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/MeshLoader.hpp \
   /home/tbf/Classes/6.4400/final/gloo/Renderer.hpp \
   /home/tbf/Classes/6.4400/final/gloo/Scene.hpp \
   /home/tbf/Classes/6.4400/final/gloo/SceneNode.hpp \
   /home/tbf/Classes/6.4400/final/gloo/Transform.hpp \
   /home/tbf/Classes/6.4400/final/gloo/VertexObject.hpp \
   /home/tbf/Classes/6.4400/final/gloo/alias_types.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/cameras/ArcBallCameraNode.hpp \
   /home/tbf/Classes/6.4400/final/gloo/components/CameraComponent.hpp \
   /home/tbf/Classes/6.4400/final/gloo/components/ComponentBase.hpp \
   /home/tbf/Classes/6.4400/final/gloo/components/ComponentType.hpp \
   /home/tbf/Classes/6.4400/final/gloo/components/LightComponent.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/components/MaterialComponent.hpp \
   /home/tbf/Classes/6.4400/final/gloo/components/RenderingComponent.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/components/ShadingComponent.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/debug/AxisNode.hpp \
   /home/tbf/Classes/6.4400/final/gloo/external.hpp \
   /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindGuard.hpp \
   /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindableBuffer.hpp \
   /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/IBindable.hpp \
   /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/VertexArray.hpp \
   /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/VertexBuffer.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/lights/AmbientLight.hpp \
   /home/tbf/Classes/6.4400/final/gloo/lights/LightBase.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/lights/PointLight.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/parsers/ObjParser.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/shaders/PhongShader.hpp \
+  /home/tbf/Classes/6.4400/final/gloo/shaders/ShaderProgram.hpp \
   /home/tbf/Classes/6.4400/final/gloo/utils.hpp \
   /usr/include/GL/gl.h \
   /usr/include/alloca.h \
@@ -274,6 +304,7 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /usr/include/c++/11/bits/stringfwd.h \
   /usr/include/c++/11/bits/unique_ptr.h \
   /usr/include/c++/11/bits/unordered_map.h \
+  /usr/include/c++/11/bits/unordered_set.h \
   /usr/include/c++/11/bits/uses_allocator.h \
   /usr/include/c++/11/bits/vector.tcc \
   /usr/include/c++/11/cassert \
@@ -283,6 +314,7 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /usr/include/c++/11/climits \
   /usr/include/c++/11/clocale \
   /usr/include/c++/11/cmath \
+  /usr/include/c++/11/cstdarg \
   /usr/include/c++/11/cstddef \
   /usr/include/c++/11/cstdint \
   /usr/include/c++/11/cstdio \
@@ -318,6 +350,7 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /usr/include/c++/11/type_traits \
   /usr/include/c++/11/typeinfo \
   /usr/include/c++/11/unordered_map \
+  /usr/include/c++/11/unordered_set \
   /usr/include/c++/11/utility \
   /usr/include/c++/11/vector \
   /usr/include/ctype.h \
@@ -722,6 +755,7 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /usr/include/c++/11/bits/stringfwd.h \
   /usr/include/c++/11/bits/unique_ptr.h \
   /usr/include/c++/11/bits/unordered_map.h \
+  /usr/include/c++/11/bits/unordered_set.h \
   /usr/include/c++/11/bits/uses_allocator.h \
   /usr/include/c++/11/bits/vector.tcc \
   /usr/include/c++/11/cassert \
@@ -769,6 +803,7 @@ CMakeFiles/assignment_final_project.dir/assignment_code/assignment_final_project
   /usr/include/c++/11/type_traits \
   /usr/include/c++/11/typeinfo \
   /usr/include/c++/11/unordered_map \
+  /usr/include/c++/11/unordered_set \
   /usr/include/c++/11/utility \
   /usr/include/c++/11/vector \
   /usr/include/ctype.h \
@@ -11248,10 +11283,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/gloo/shaders/ShaderProgram.cpp:
 
-/home/tbf/Classes/6.4400/final/gloo/shaders/PhongShader.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/lights/PointLight.hpp:
-
 /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h:
 
 /usr/include/c++/11/bits/codecvt.h:
@@ -11264,59 +11295,13 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindableBuffer.cpp:
 
-/usr/include/c++/11/bits/refwrap.h:
+/home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindGuard.cpp:
 
-/usr/include/c++/11/bits/move.h:
+/home/tbf/Classes/6.4400/final/gloo/debug/PrimitiveFactory.cpp:
 
-/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
-
-/usr/include/c++/11/bits/memoryfwd.h:
-
-/usr/include/c++/11/bits/ptr_traits.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint4_sized.hpp:
-
-/usr/include/c++/11/sstream:
-
-/usr/include/c++/11/bits/cpp_type_traits.h:
-
-/usr/include/c++/11/bits/locale_facets.h:
-
-/home/tbf/Classes/6.4400/final/external/src/imgui/imstb_textedit.h:
-
-/usr/include/c++/11/bits/locale_classes.tcc:
-
-/usr/include/c++/11/bits/istream.tcc:
-
-/usr/include/c++/11/bits/ios_base.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/constants.inl:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/scalar_int_sized.hpp:
-
-/usr/include/c++/11/bits/hash_bytes.h:
-
-/usr/include/c++/11/streambuf:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
-
-/usr/include/c++/11/bits/functional_hash.h:
-
-/usr/include/c++/11/bits/align.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
-
-/usr/include/c++/11/bits/ostream_insert.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint4.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_clip_space.hpp:
+/home/tbf/Classes/6.4400/final/gloo/components/RenderingComponent.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
-
-/usr/include/x86_64-linux-gnu/bits/select.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/component_wise.hpp:
 
 /usr/include/c++/11/bits/exception.h:
 
@@ -11334,8 +11319,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/x86_64-linux-gnu/bits/endianness.h:
 
-/usr/include/c++/11/bits/atomic_base.h:
-
 /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
 
 /usr/include/c++/11/bits/allocator.h:
@@ -11344,15 +11327,15 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/c++/11/memory:
 
-/usr/include/c++/11/bits/localefwd.h:
-
-/usr/include/c++/11/bits/char_traits.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_projection.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/c++/11/bits/align.h:
+
+/usr/include/c++/11/bits/functional_hash.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
 /usr/include/c++/11/bit:
 
@@ -11360,29 +11343,47 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool2_precision.hpp:
 
-/usr/include/c++/11/backward/auto_ptr.h:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x2.inl:
 
 /usr/include/c++/11/ostream:
 
 /usr/include/asm-generic/errno-base.h:
 
-/home/tbf/Classes/6.4400/final/gloo/components/RenderingComponent.cpp:
-
 /usr/include/alloca.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_geometric.inl:
 
+/usr/include/c++/11/bits/atomic_base.h:
+
+/home/tbf/Classes/6.4400/final/gloo/lights/PointLight.hpp:
+
 /home/tbf/Classes/6.4400/final/gloo/lights/LightBase.hpp:
+
+/usr/include/c++/11/bits/uses_allocator.h:
+
+/usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
 /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindableBuffer.hpp:
 
 /usr/include/linux/errno.h:
 
-/usr/include/c++/11/bits/predefined_ops.h:
+/usr/include/c++/11/backward/auto_ptr.h:
 
-/home/tbf/Classes/6.4400/final/gloo/alias_types.hpp:
+/home/tbf/Classes/6.4400/final/gloo/components/ShadingComponent.hpp:
+
+/home/tbf/Classes/6.4400/final/gloo/components/MaterialComponent.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1_precision.hpp:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double4_precision.hpp:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/home/tbf/Classes/6.4400/final/gloo/MeshLoader.hpp:
+
+/home/tbf/Classes/6.4400/final/gloo/Material.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/imgui/imconfig.h:
 
@@ -11398,16 +11399,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/quaternion.hpp:
 
-/usr/include/c++/11/bits/stl_algobase.h:
-
-/home/tbf/Classes/6.4400/final/gloo/components/LightComponent.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/fwd.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_common.inl:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/packing.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/mat4x4.hpp:
@@ -11421,8 +11412,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 /usr/include/c++/11/bits/hashtable_policy.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
-
-/usr/include/c++/11/bits/hashtable.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/mat3x4.hpp:
 
@@ -11442,15 +11431,39 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_clip_space.inl:
 
+/usr/include/c++/11/bits/unordered_set.h:
+
 /home/tbf/Classes/6.4400/final/gloo/components/CameraComponent.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/integer.hpp:
 
 /usr/include/c++/11/utility:
 
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.inl:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.inl:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat3x2.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/component_wise.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_relational.inl:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.hpp:
+
+/home/tbf/Classes/6.4400/final/gloo/components/CameraComponent.cpp:
+
 /usr/include/c++/11/cwctype:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/quaternion.inl:
+
+/home/tbf/Classes/6.4400/final/gloo/debug/AxisNode.cpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/quaternion.hpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
 
@@ -11462,6 +11475,18 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint1.hpp:
 
+/home/tbf/Classes/6.4400/final/gloo/components/LightComponent.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/fwd.hpp:
+
+/usr/include/c++/11/bits/stl_algobase.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint4_sized.hpp:
+
+/usr/include/c++/11/bits/ptr_traits.h:
+
+/usr/include/c++/11/sstream:
+
 /usr/include/c++/11/bits/basic_string.tcc:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/glm.hpp:
@@ -11470,15 +11495,17 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/c++/11/array:
 
-/usr/include/c++/11/bits/locale_facets.tcc:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_common.inl:
-
 /home/tbf/Classes/6.4400/final/external/src/glad/include/glad/glad.h:
 
 /home/tbf/Classes/6.4400/final/gloo/Image.hpp:
 
+/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_relational.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.inl:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int4_sized.hpp:
 
 /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/VertexBuffer.hpp:
 
@@ -11488,39 +11515,33 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int2_sized.hpp:
 
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1_sized.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double2x3_precision.hpp:
+
 /home/tbf/Classes/6.4400/final/external/src/imgui/examples/imgui_impl_opengl3.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float4_precision.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/imgui/imstb_rectpack.h:
 
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/vec1.hpp:
+
+/home/tbf/Classes/6.4400/final/gloo/external.hpp:
+
+/usr/include/c++/11/bits/atomic_lockfree_defines.h:
+
+/usr/include/c++/11/bits/functexcept.h:
+
+/usr/include/c++/11/bits/erase_if.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat4x3.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double4.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double2x3.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/epsilon.hpp:
-
-/usr/include/c++/11/bits/fstream.tcc:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int4.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool4.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/gl_wrapper/VertexArray.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint2.hpp:
-
-/usr/include/c++/11/bits/charconv.h:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_vec3.inl:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/matrix_transform.hpp:
-
-/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/mat2x4.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/simd/platform.h:
 
@@ -11528,17 +11549,25 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool3_precision.hpp:
 
-/usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
-
 /usr/include/c++/11/cstdarg:
 
-/home/tbf/Classes/6.4400/final/gloo/shaders/PhongShader.cpp:
+/usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat4x4.hpp:
+/usr/include/c++/11/bits/locale_classes.tcc:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_vec4.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float4.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/mat2x4.hpp:
+
+/usr/include/c++/11/bits/cpp_type_traits.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
+
+/usr/include/c++/11/bits/char_traits.h:
+
+/usr/include/c++/11/bits/localefwd.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_matrix.inl:
 
@@ -11546,19 +11575,19 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat3x3.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat3x2.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint2.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.inl:
+/home/tbf/Classes/6.4400/final/gloo/gl_wrapper/VertexArray.hpp:
 
-/usr/include/c++/11/bits/basic_ios.tcc:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float3.hpp:
 
-/home/tbf/Classes/6.4400/final/gloo/lights/DirectionalLight.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float2_precision.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float3x4.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x4.inl:
 
-/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
+/home/tbf/Classes/6.4400/final/external/src/glad/include/KHR/khrplatform.h:
 
-/home/tbf/Classes/6.4400/final/gloo/gl_wrapper/IBindable.hpp:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_exponential.inl:
 
@@ -11570,11 +11599,11 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/gloo/InputManager.hpp:
 
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_packing.inl:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/compute_common.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float2x2_precision.hpp:
-
-/usr/include/c++/11/bits/shared_ptr.h:
 
 /usr/include/c++/11/bits/alloc_traits.h:
 
@@ -11582,15 +11611,49 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double2_precision.hpp:
 
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/epsilon.hpp:
+
+/usr/include/c++/11/bits/fstream.tcc:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int4.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool4.hpp:
+
+/usr/include/c++/11/bits/charconv.h:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_vec3.inl:
+
+/home/tbf/Classes/6.4400/final/gloo/debug/AxisNode.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/matrix_transform.hpp:
+
+/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint4.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_clip_space.hpp:
+
+/usr/include/c++/11/bits/ostream_insert.h:
+
+/home/tbf/Classes/6.4400/final/gloo/shaders/PhongShader.cpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat4x4.hpp:
+
+/home/tbf/Classes/6.4400/final/assignment_code/common/helpers.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1.hpp:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_vec1.inl:
-
-/usr/include/c++/11/bits/locale_classes.h:
-
-/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /home/tbf/Classes/6.4400/final/gloo/Renderer.hpp:
 
 /usr/include/math.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_quat.hpp:
 
@@ -11600,11 +11663,15 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_packing.inl:
+/usr/include/c++/11/bits/basic_ios.tcc:
 
-/home/tbf/Classes/6.4400/final/external/src/glad/include/KHR/khrplatform.h:
+/home/tbf/Classes/6.4400/final/gloo/lights/DirectionalLight.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x4.inl:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float3x4.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
+
+/home/tbf/Classes/6.4400/final/gloo/gl_wrapper/IBindable.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x3.hpp:
 
@@ -11618,20 +11685,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double3x3.hpp:
 
-/usr/include/c++/11/bits/erase_if.h:
-
-/usr/include/c++/11/bits/functexcept.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat4x3.hpp:
-
-/usr/include/c++/11/bits/shared_ptr_atomic.h:
-
-/usr/include/c++/11/bits/shared_ptr_base.h:
-
-/home/tbf/Classes/6.4400/final/gloo/external.hpp:
-
-/usr/include/c++/11/bits/atomic_lockfree_defines.h:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float3x4_precision.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat3x4.hpp:
@@ -11639,14 +11692,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/_fixes.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
-
-/usr/include/c++/11/bits/postypes.h:
-
-/usr/include/c++/11/bits/exception_ptr.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_geometric.inl:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_quat.inl:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double4x4.hpp:
 
@@ -11676,19 +11721,25 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double3x2.hpp:
 
+/home/tbf/Classes/6.4400/final/gloo/parsers/ObjParser.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat4x3.inl:
 
 /usr/include/x86_64-linux-gnu/bits/uio_lim.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_half.inl:
 
-/usr/include/c++/11/bits/stl_bvector.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool3.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/wchar2.h:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x3.inl:
+
+/home/tbf/Classes/6.4400/final/gloo/MeshData.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double2x4.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/constants.inl:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/scalar_int_sized.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_half.hpp:
 
@@ -11696,11 +11747,13 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double3x4.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double3x4_precision.hpp:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/common.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_transform.inl:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_common.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double4x2.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float3x3_precision.hpp:
 
@@ -11712,9 +11765,11 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double4x3_precision.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double4x4_precision.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_common.inl:
 
-/home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindGuard.cpp:
+/usr/include/c++/11/bits/locale_facets.tcc:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double4x4_precision.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float2x2.hpp:
 
@@ -11725,10 +11780,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float2x3.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_relational.inl:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/dual_quaternion.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_vec2.hpp:
 
@@ -11762,8 +11813,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/mm_malloc.h:
 
-/home/tbf/Classes/6.4400/final/gloo/debug/PrimitiveFactory.cpp:
-
 /home/tbf/Classes/6.4400/final/gloo/Scene.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int2.hpp:
@@ -11772,33 +11821,37 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float4x2.hpp:
 
+/home/tbf/Classes/6.4400/final/gloo/shaders/PhongShader.hpp:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float4x2_precision.hpp:
+
+/home/tbf/Classes/6.4400/final/gloo/shaders/ShaderProgram.hpp:
 
 /home/tbf/Classes/6.4400/final/gloo/Transform.hpp:
 
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/qualifier.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x2.hpp:
 
 /usr/include/c++/11/bits/concept_check.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double2x3_precision.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool3.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1_sized.hpp:
+/usr/include/c++/11/bits/stl_bvector.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/geometric.hpp:
+/usr/include/x86_64-linux-gnu/bits/wchar2.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x4.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1_precision.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/scalar_constants.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float4x4_precision.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/imgui/imstb_truetype.h:
 
 /home/tbf/Classes/6.4400/final/external/src/imgui/examples/imgui_impl_glfw.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1.hpp:
 
 /home/tbf/Classes/6.4400/final/gloo/gl_wrapper/BindGuard.hpp:
 
@@ -11820,6 +11873,12 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float3x2_precision.hpp:
 
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float2x4.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int3_sized.hpp:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_double.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_trigonometric.inl:
@@ -11832,11 +11891,43 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/epsilon.inl:
 
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/geometric.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat2x4.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1_precision.hpp:
+
+/usr/include/c++/11/cerrno:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double3_precision.hpp:
 
 /usr/include/string.h:
 
-/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+/usr/include/c++/11/bits/hash_bytes.h:
+
+/usr/include/c++/11/streambuf:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
+
+/usr/include/c++/11/bits/hashtable.h:
+
+/usr/include/c++/11/bits/ios_base.h:
+
+/usr/include/c++/11/bits/istream.tcc:
+
+/usr/include/c++/11/bits/locale_classes.h:
+
+/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
+
+/usr/include/c++/11/bits/locale_facets.h:
+
+/home/tbf/Classes/6.4400/final/external/src/imgui/imstb_textedit.h:
+
+/usr/include/c++/11/bits/memoryfwd.h:
+
+/usr/include/c++/11/bits/move.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_integer.inl:
 
@@ -11844,21 +11935,39 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/mmintrin.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double4.hpp:
+/usr/include/c++/11/bits/exception_ptr.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double2x4.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_geometric.inl:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double4_precision.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_quat.inl:
 
-/usr/include/x86_64-linux-gnu/sys/select.h:
+/usr/include/c++/11/bits/postypes.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_common.hpp:
+/usr/include/c++/11/bits/refwrap.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double4x2.hpp:
+/home/tbf/Classes/6.4400/final/gloo/alias_types.hpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float2_precision.hpp:
+/usr/include/c++/11/bits/predefined_ops.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float3.hpp:
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/func_common.inl:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint1_sized.hpp:
+
+/usr/include/c++/11/bits/nested_exception.h:
+
+/usr/include/c++/11/bits/range_access.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float2x2_precision.hpp:
+
+/usr/include/c++/11/bits/shared_ptr.h:
+
+/usr/include/c++/11/bits/shared_ptr_base.h:
+
+/usr/include/c++/11/bits/shared_ptr_atomic.h:
 
 /usr/include/c++/11/bits/stl_construct.h:
 
@@ -11878,19 +11987,11 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/c++/11/bits/stl_vector.h:
 
-/usr/include/c++/11/bits/uses_allocator.h:
-
-/usr/include/x86_64-linux-gnu/bits/cpu-set.h:
-
 /usr/include/c++/11/bits/vector.tcc:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool4_precision.hpp:
 
 /usr/include/c++/11/cassert:
-
-/usr/include/c++/11/cerrno:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double1_precision.hpp:
 
 /usr/include/c++/11/bits/streambuf_iterator.h:
 
@@ -11936,9 +12037,9 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/c++/11/ext/numeric_traits.h:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_vec1.hpp:
-
 /home/tbf/Classes/6.4400/final/gloo/cameras/ArcBallCameraNode.hpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_vec1.hpp:
 
 /usr/include/c++/11/initializer_list:
 
@@ -11963,6 +12064,10 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 /usr/include/c++/11/typeinfo:
 
 /usr/include/c++/11/unordered_map:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double3x4_precision.hpp:
+
+/usr/include/c++/11/unordered_set:
 
 /usr/include/c++/11/bits/stl_tempbuf.h:
 
@@ -12070,14 +12175,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/assignment_code/common/helpers.cpp:
 
-/usr/include/x86_64-linux-gnu/bits/stdio2.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_float2x4.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int3_sized.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1.hpp:
-
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
@@ -12162,19 +12259,19 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
-/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
-
-/usr/include/c++/11/bits/nested_exception.h:
-
-/usr/include/c++/11/bits/range_access.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_uint1_sized.hpp:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/detail/type_mat3x3.inl:
 
 /usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h:
+
+/usr/include/c++/11/bits/basic_string.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double3.hpp:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h:
 
@@ -12182,27 +12279,9 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_base.h:
 
-/usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_float1_precision.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/components/MaterialComponent.hpp:
-
 /usr/include/c++/11/bits/invoke.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr.h:
-
-/usr/include/c++/11/bits/basic_string.h:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_double3.hpp:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
-
-/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
-
-/home/tbf/Classes/6.4400/final/gloo/parsers/ObjParser.hpp:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
@@ -12222,9 +12301,9 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
 
-/usr/include/c++/11/bits/sstream.tcc:
-
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/matrix_double2x2_precision.hpp:
+
+/usr/include/c++/11/bits/sstream.tcc:
 
 /home/tbf/Classes/6.4400/final/assignment_code/assignment_final_project/main.cpp:
 
@@ -12235,8 +12314,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 /usr/include/c++/11/bits/parse_numbers.h:
 
 /usr/include/c++/11/chrono:
-
-/home/tbf/Classes/6.4400/final/assignment_code/common/helpers.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/exponential.hpp:
 
@@ -12290,12 +12367,6 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/gloo/MeshLoader.cpp:
 
-/home/tbf/Classes/6.4400/final/gloo/Material.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/MeshData.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/MeshLoader.hpp:
-
 /usr/include/c++/11/algorithm:
 
 /usr/include/c++/11/bits/stl_heap.h:
@@ -12306,31 +12377,7 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/gloo/Renderer.cpp:
 
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/scalar_constants.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_bool1_precision.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/components/CameraComponent.cpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int4_sized.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/type_precision.inl:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/vec1.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/string_cast.inl:
-
-/home/tbf/Classes/6.4400/final/gloo/components/ShadingComponent.hpp:
-
 /home/tbf/Classes/6.4400/final/gloo/debug/PrimitiveFactory.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/shaders/ShaderProgram.hpp:
 
 /home/tbf/Classes/6.4400/final/gloo/SceneNode.cpp:
 
@@ -12344,6 +12391,10 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/quaternion_exponential.hpp:
 
+/home/tbf/Classes/6.4400/final/gloo/components/ShadingComponent.cpp:
+
+/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/component_wise.inl:
+
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/norm.hpp:
 
 /home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/quaternion.inl:
@@ -12351,15 +12402,3 @@ CMakeFiles/assignment_final_project.dir/gloo/utils.cpp.o: /home/tbf/Classes/6.44
 /home/tbf/Classes/6.4400/final/gloo/shaders/SimpleShader.hpp:
 
 /home/tbf/Classes/6.4400/final/gloo/cameras/BasicCameraNode.hpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtx/component_wise.inl:
-
-/home/tbf/Classes/6.4400/final/gloo/components/ShadingComponent.cpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/gtc/quaternion.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/debug/AxisNode.cpp:
-
-/home/tbf/Classes/6.4400/final/external/src/glm-0.9.9.8/glm/ext/vector_int1.hpp:
-
-/home/tbf/Classes/6.4400/final/gloo/debug/AxisNode.hpp:
